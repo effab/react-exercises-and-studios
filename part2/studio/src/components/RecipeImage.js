@@ -6,7 +6,7 @@ function RecipeImage() {
     <div key={data.name}>
       <img scr={data.recipeImage} alt={data.name} className="recipeImage" />
     </div>
-  ))
+  ));
    return <div>{recipeImage}</div>;
  }
  
