@@ -6,7 +6,7 @@ function RecipeName() {
       <h1>{data.name}</h1>
     </div>
   ))
-  return <div> {recipeName} </div>;
+  return <div>{recipeName}</div>;
 }
 
 export default RecipeName;
