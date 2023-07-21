@@ -1,0 +1,33 @@
+{ "projects": [
+    {
+        "canvas": "Penguin",
+        "artist": "Glory of the Snow",
+        "photoURL": "https://www.gloryofthesnow.com/wp-content/uploads/2023/04/penguin-drawing-ideas-examples-tutorials-easy-cute-43.png",
+        "alt": "Cute penguin drawing"
+    },
+    {
+        "canvas": "Love",
+        "artist": "alihussain8050",
+        "photoURL": "https://shesohealthy.com/wp-content/uploads/2022/12/alihussain8050.jpg",
+        "alt": "Love with mother's hand and baby's foot"
+    },
+    {
+        "canvas": "Bunny",
+        "artist": "DonCorgi",
+        "photoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3eDOd1WXdhiLIn_JOBHYMNBMXhNgKlisW4Q&usqp=CAU",
+        "alt": "Cute bunny"
+    },
+    {
+        "canvas": "Wolf",
+        "artist": "finalprodigy",
+        "photoURL": "https://i.pinimg.com/736x/fa/ce/b9/faceb96fc99f114076c185f22ac1a1fc.jpg",
+        "alt": "Howling wolf"
+    },
+    {
+        "canvas": "Baby Wolf",
+        "artist": "staff_illustrator15",
+        "photoURL": "https://www.drawingnow.com/file/videos/steps/120371/how-to-draw-a-baby-wolf-step-10.jpg",
+        "alt": "Baby wolf"
+    }
+]
+}
