@@ -5,7 +5,7 @@ import HobbyIntroduction from './components/Introduction';
 function App() {
   return (
     <div className="App">
-      <h1>My Hobby: Writing</h1>
+      <h1>My Hobby: Gaming</h1>
       <HobbyIntroduction />
     </div>
   );
